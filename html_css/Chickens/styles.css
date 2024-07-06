@@ -1,0 +1,25 @@
+h1 {
+    text-decoration: blue underline wavy;
+    text-align: center;
+    color: rgb(56, 6, 6);
+    letter-spacing: 40px;
+}
+
+h2 {
+    font-weight: 900;
+    color: yellowgreen;
+    background-color: cyan;
+}
+
+button {
+    color: chartreuse;
+}
+
+a {
+    text-decoration: none;
+    /*to remove underline in anchor tags*/
+}
+
+p {
+    line-height: 2;
+}
