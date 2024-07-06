@@ -1,0 +1,1 @@
+On clikcing the button a random color is genearated
